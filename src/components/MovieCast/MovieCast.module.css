@@ -1,0 +1,29 @@
+.poster {
+  width: 200px;
+}
+
+.castList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.actor {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  color: black;
+  text-align: center;
+  text-decoration: none;
+}

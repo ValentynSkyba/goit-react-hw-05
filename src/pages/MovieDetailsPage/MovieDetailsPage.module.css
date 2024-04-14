@@ -1,0 +1,50 @@
+.cast {
+  color: rgb(15, 14, 14);
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 20px;
+}
+
+.hero {
+  color: black;
+  text-align: center;
+}
+
+.reviews {
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 20px;
+}
+
+.movieCard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  margin: 30px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.title {
+  padding: 20px;
+  text-align: center;
+  color: black;
+  text-decoration: none;
+  margin: 30px;
+
+  border-radius: 10px;
+}
+
+.button {
+  margin: 30px;
+  font-size: 20px;
+  font-weight: 300;
+  color: rgb(12, 22, 162);
+  border-radius: 10px;
+  padding: 10px;
+  width: 150px;
+}
